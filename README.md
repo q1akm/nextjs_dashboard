@@ -1,2 +1,2 @@
 ## Next.js_dashboard
-Started building...
+Learning from zero to hero Next.js
